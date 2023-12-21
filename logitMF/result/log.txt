@@ -1,0 +1,1 @@
+aupr: 0.6124   f1: 0.5766   precision: 0.5943   recall: 0.5601   mcc: 0.5659  mr: 10.0619   topk_recall:0.7263   topk_precision:0.637
